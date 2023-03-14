@@ -1,4 +1,4 @@
-### Eu sou o Luis Felipe 😀<br /><br />
+### Olá! Eu sou o Luis Felipe 😀<br /><br />
 
 ### Seja bem vindo ao meu perfil aqui no Github 👋<br />
 
