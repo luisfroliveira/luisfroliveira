@@ -7,16 +7,16 @@ Venho me dedicando atualmente ao estudo da cultura e ferramentas DevOps tendo co
 
 ## Nessa minha caminhada de estudos adquiri as seguintes certificações até o momento 📜<br />
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)<br />
-**AWS Certified Cloud Practitioner**
+[**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/ab0578b3-8dd9-4937-ad80-79539e4b84d9)
 <br /><br />
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)<br />
-**Microsoft Certified: Azure Fundamentals**<br />
-**Microsoft Certified: Azure Data Fundamentals**
+[**Microsoft Certified: Azure Fundamentals**](https://www.credly.com/badges/c5db133b-e6d4-44b6-aa4e-0cf1179edc3f)<br />
+[**Microsoft Certified: Azure Data Fundamentals**](https://www.credly.com/badges/d4acdcf5-b1a2-43b3-a2c1-aa0ce234a45d)
 <br /><br />
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)<br />
-**Oracle Cloud Infrastructure Foundations Associate**
+[**Oracle Cloud Infrastructure Foundations Associate**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=47DDB3E64B1D57932FF15652EDC23B6FC50A0DD96AACBF4B2D09264E1214919D)
 <br /><br />
 
 ## Tecnologias que uso no meu dia 💻
