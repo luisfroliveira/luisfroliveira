@@ -1,6 +1,6 @@
-### Eu sou o Luis Felipe 👋<br /><br />
+### Eu sou o Luis Felipe 😀<br /><br />
 
-Seja bem vindo ao meu perfil aqui no Github.<br />
+### Seja bem vindo ao meu perfil aqui no Github 👋<br />
 
 Tenho 7 anos de experiência em TI atuando na area de Suporte a Infraestrutura e Atendimento.<br />
 Venho me dedicando atualmente ao estudo da cultura e ferramentas DevOps tendo como objetivo construir ambientes de alta disponibilidade e escabilidade que entreguem valor ao cliente.<br /><br />
