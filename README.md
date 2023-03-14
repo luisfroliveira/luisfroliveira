@@ -3,7 +3,7 @@
 Seja bem vindo ao meu perfil aqui no Github.<br />
 
 Tenho 7 anos de experincia em TI atuando na area de Suporte a Infraestrutura e Atendimento.<br />
-Venho me dedicando atualmente ao estudo da culura e ferramentas DevOps tendo como objetivo construir ambientes de alta disponibilidade e escabilidade que entreguem valor ao cliente.<br /><br />
+Venho me dedicando atualmente ao estudo da cultura e ferramentas DevOps tendo como objetivo construir ambientes de alta disponibilidade e escabilidade que entreguem valor ao cliente.<br /><br />
 
 ## Nessa minha caminhada de estudos adquiri as seguintes certificações até o momento 📜<br />
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)<br />
