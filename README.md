@@ -64,9 +64,9 @@
 
 ## 🌱 O que estou aprendendo agora
 
-- 🔄 *Tema 1 (ex.: Kubernetes avançado / AKS)*
-- 🔄 *Tema 2 (ex.: GitOps, Helm, ArgoCD)*
-- 🔄 *Tema 3 (ex.: Observabilidade, SRE, segurança em pipelines)*
+- 🔭 **Observabilidade:** stack **LGTM** (Loki, Grafana, Tempo e Mimir) + **OpenTelemetry**
+- ☸️ **Kubernetes avançado**
+- 🤖 **IA para DevOps:** agentes, skills e automação inteligente de fluxos de trabalho
 
 ## 📌 Projetos em destaque
 
