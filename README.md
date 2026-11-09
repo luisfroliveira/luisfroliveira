@@ -11,7 +11,7 @@
 ## 👨‍💻 Sobre mim
 
 - 💼 **DevOps Engineer** com foco em **nuvem Azure**, automação e entrega contínua
-- ⚙️ Construo pipelines **CI/CD** com **Azure DevOps** e **GitHub Actions**
+- ⚙️ Construo pipelines **CI/CD** com **Azure DevOps**, **GitHub Actions** e **Jenkins**
 - 🏗️ Provisiono infraestrutura com **Terraform** e rodo workloads em **Docker** e **Kubernetes**
 - 📈 Já trabalhei com observabilidade e monitoramento usando **Datadog**
 - ✍️ Escrevo sobre o que aprendo no [Medium](https://medium.com/@luisfroliveira)
@@ -29,6 +29,7 @@
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 **🐳 Containers & Orquestração**
 
