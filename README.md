@@ -74,9 +74,6 @@
 
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=luisfroliveira&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/luisfroliveira)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfroliveira&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/luisfroliveira)
-
 [![Streak](https://streak-stats.demolab.com?user=luisfroliveira&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
