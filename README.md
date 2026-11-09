@@ -4,13 +4,6 @@
 
 ### 🚀 DevOps Engineer · Azure · CI/CD · Infraestrutura como Código
 
-*"Automatize o repetitivo, meça o que importa e melhore sempre."*
-
-![Profile views](https://komarev.com/ghpvc/?username=luisfroliveira&label=Visitas&color=0e75b6&style=flat)
-[![Followers](https://img.shields.io/github/followers/luisfroliveira?label=Seguidores&style=flat&logo=github)](https://github.com/luisfroliveira?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipe-oliveira/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@luisfroliveira)
-
 </div>
 
 ---
