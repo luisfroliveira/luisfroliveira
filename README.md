@@ -54,11 +54,13 @@
 
 ## 🏅 Certificações
 
-| Certificação | Emissor | Ano |
-| :--- | :--- | :---: |
-| 🔹 *Nome da certificação 1* | Microsoft | 20XX |
-| 🔹 *Nome da certificação 2* | Microsoft | 20XX |
-| 🔹 *Nome da certificação 3* | *Emissor* | 20XX |
+| Código | Certificação | Emissor |
+| :---: | :--- | :---: |
+| ![AZ-104](https://img.shields.io/badge/AZ--104-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | Microsoft Certified: Azure Administrator Associate | Microsoft |
+| ![AZ-400](https://img.shields.io/badge/AZ--400-0078D4?style=flat-square&logo=azuredevops&logoColor=white) | Microsoft Certified: DevOps Engineer Expert | Microsoft |
+| ![GH-100](https://img.shields.io/badge/GH--100-181717?style=flat-square&logo=github&logoColor=white) | GitHub Administration | GitHub |
+| ![GH-200](https://img.shields.io/badge/GH--200-2088FF?style=flat-square&logo=githubactions&logoColor=white) | GitHub Actions | GitHub |
+| ![GH-300](https://img.shields.io/badge/GH--300-181717?style=flat-square&logo=githubcopilot&logoColor=white) | GitHub Copilot | GitHub |
 
 ## 🌱 O que estou aprendendo agora
 
