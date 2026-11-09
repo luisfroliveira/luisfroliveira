@@ -66,7 +66,7 @@
 
 - 🔭 **Observabilidade:** stack **LGTM** (Loki, Grafana, Tempo e Mimir) + **OpenTelemetry**
 - ☸️ **Kubernetes avançado**
-- 🤖 **IA para DevOps:** agentes, skills e automação inteligente de fluxos de trabalho
+- 🤖 **IA para DevOps:** agentes, skills, **MCP (Model Context Protocol)** e automação inteligente de fluxos de trabalho
 
 ## 📌 Projetos em destaque
 
