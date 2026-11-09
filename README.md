@@ -66,9 +66,7 @@
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| [🔗 Projeto 1](https://github.com/luisfroliveira) | *Descrição curta* | `Terraform` `Azure` |
-| [🔗 Projeto 2](https://github.com/luisfroliveira) | *Descrição curta* | `GitHub Actions` `Docker` |
-| [🔗 Projeto 3](https://github.com/luisfroliveira) | *Descrição curta* | `Python` `Shell` |
+| [⚡ keda-azure-pipelines-agents](https://github.com/luisfroliveira/keda-azure-pipelines-agents) | Autoscaling de agents self-hosted do Azure Pipelines no Kubernetes com KEDA ([artigo no Medium](https://medium.com/@luisfroliveira/autoscaling-de-agents-self-hosted-no-azure-pipelines-com-keda-1a44bdda3df0)) | `Azure DevOps` `Kubernetes` `KEDA` `Docker` `Shell` |
 
 ## 📊 Estatísticas do GitHub
 
